@@ -5,7 +5,7 @@ Multiple react related projects with other technologies that evolve around it or
 ## Projects list:
 
 **Check projects in this repo directly from here:**
-- <a href="" target="_blank">0x00-TypeScript</a>
+- <a href="https://github.com/YassineChayrrou/holbertonschool-web_react/tree/main/0x00-TypeScript" target="_blank">0x00-TypeScript</a>
 <!-- 
 - <a href="" target="_blank"></a>
 -->
